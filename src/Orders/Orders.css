@@ -1,0 +1,33 @@
+
+.steppers {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;   
+}
+
+.newForm {
+    width: 160px;
+    height: 70px;
+    background-color: white;
+    margin-right: 30px;
+}
+.completed {
+    width: 160px;
+    height: 70px;
+    background-color: #01a1dd;
+    color: white;
+    margin-right: 30px;
+}
+.currentForm{
+    width: 160px;
+    height: 70px;
+    background-color: #323f48;
+    color: white;
+    margin-right: 30px;
+
+}
+
+.customIcon {
+    color: white
+}

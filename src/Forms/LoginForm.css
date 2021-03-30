@@ -1,0 +1,11 @@
+.custom-input{
+    border: 0;
+    outline: 0;
+    border-bottom: 1px solid #202020;   
+}
+
+.icon-eye{
+    position: absolute;
+    top: 65%;
+    right: 5%;
+}

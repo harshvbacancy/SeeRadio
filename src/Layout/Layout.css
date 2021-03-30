@@ -1,0 +1,52 @@
+.pl-3 i {
+    margin-right: 8px;
+}
+
+.dropdownName {
+    color: rgb(90, 92, 92);
+    font-weight: 500;
+}
+.rounded-circle:focus {
+    border: none;
+    box-shadow: none;
+}
+
+.COMPUTER-CITY {
+    font-size: 12px;
+    font-weight: bold;
+    
+   
+}
+.Salesperson {
+    font-size: 12px;
+    color: #01a1dd;
+    font-weight: 600; 
+    
+}
+.user-email{
+    font-size: 12px;
+}
+
+.custom-bell{
+    position: relative;
+    top: 15px;
+    right: 20px;
+    font-size: 19px;
+    cursor: pointer;
+     
+}
+.fa-rotate-45 {
+    transform: rotate(20deg);
+}
+
+.notification:after {
+    content: "";
+    display: block;
+    position: absolute;
+    width: 8px;
+    height: 8px;
+    background: red;
+    top: 0;
+    right: 0;
+    border-radius: 50%;
+}
